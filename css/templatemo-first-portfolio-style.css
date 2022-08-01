@@ -492,7 +492,7 @@ strong {
   HERO              
 -----------------------------------------*/
 .hero {
-  background: var(--secondary-color);
+/*   background: var(--secondary-color); */
   position: relative;
   overflow: hidden;
   padding-top: 330px;
